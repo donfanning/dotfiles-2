@@ -47,7 +47,6 @@ aptitude install \
   autoconf \
   make \
   cmake \
-  mktemp \
   dialog \
   `# unzip, unrar etc.` \
   cabextract \
