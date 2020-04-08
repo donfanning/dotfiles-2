@@ -118,7 +118,6 @@ aptitude install \
   ttf-mscorefonts-installer \
   ttf-bitstream-vera \
   ttf-dejavu \
-  ttf-liberation \
   ttf-linux-libertine \
   ttf-larabie-deco \
   ttf-larabie-straight \
