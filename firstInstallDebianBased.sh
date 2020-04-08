@@ -123,7 +123,6 @@ aptitude install \
   ttf-larabie-deco \
   ttf-larabie-straight \
   ttf-larabie-uncommon \
-  ttf-liberation \
   xfonts-jmk \
   `# trace everything` \
   strace \
