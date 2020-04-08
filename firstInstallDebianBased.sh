@@ -90,7 +90,7 @@ aptitude install \
   atop \
   ack-grep \
   ngrep 
-  # interactive processes viewer` \
+  `# interactive processes viewer` \
   htop \
   `# mysql processes viewer` \
   mytop \
