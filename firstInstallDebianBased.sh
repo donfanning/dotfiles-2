@@ -74,7 +74,7 @@ aptitude install \
   libjpeg-progs \
   jhead \
   `# utilities` \
-  coreutils  
+  coreutils  \
   findutils  \
   `# fast alternative to dpkg -L and dpkg -S` \
   dlocate \
@@ -89,7 +89,7 @@ aptitude install \
   moreutils \
   atop \
   ack-grep \
-  ngrep 
+  ngrep \
   `# interactive processes viewer` \
   htop \
   `# mysql processes viewer` \
