@@ -75,8 +75,6 @@ aptitude install \
   jhead \
   `# utilities` \
   coreutils  
-  
-  aptitude install \
   findutils  \
   `# fast alternative to dpkg -L and dpkg -S` \
   dlocate \
@@ -92,9 +90,7 @@ aptitude install \
   atop \
   ack-grep \
   ngrep 
-  
-  aptitude install
-  `# interactive processes viewer` \
+  # interactive processes viewer` \
   htop \
   `# mysql processes viewer` \
   mytop \
