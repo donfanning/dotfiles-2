@@ -115,7 +115,6 @@ aptitude install \
   `# fonts also "non-free"-fonts` \
   `# -- you need "multiverse" || "non-free" sources in your "source.list" -- ` \
   fontconfig \
-  ttf-freefont \
   ttf-mscorefonts-installer \
   ttf-bitstream-vera \
   ttf-dejavu \
